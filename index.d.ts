@@ -238,7 +238,7 @@ Methods:
 
 
 export = _;
-export as namespace _;
+//export as namespace _;
 
 declare var _: _.LoDashStatic;
 
